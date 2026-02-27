@@ -8,9 +8,14 @@ const Contact = () => {
         </p>
   
         <div style={styles.links}>
-          <a href="gowthamraju35@gmail.com" style={styles.link}>
-            Email Me
-          </a>
+          <a
+                    href="https://mail.google.com/mail/?view=cm&fs=1&to=gowthamraju35@gmail.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={styles.link}
+                >
+                    Email Me
+                </a>
   
           <a href="https://www.linkedin.com/in/gowtham-raju-23bb34192/" target="_blank" style={styles.link}>
             LinkedIn
