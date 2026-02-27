@@ -13,7 +13,7 @@ const Home = () => {
           <h1 style={styles.title}>Hi, I’m Gowtham 👋</h1>
 
           <p style={styles.subtitle}>
-          React JS Developer with 5+ years of experience building scalable, high-performance web applications with strong emphasis on user experience, reliability, and conversion optimization. Proven expertise in end-to-end feature development, cloud migration support, analytics instrumentation, deep linking, and payment gateway integrations. Adept at debugging production issues, optimizing frontend architecture, and delivering measurable business impact in fast-paced product environments.
+          React JS Developer with 4+ years of experience building scalable, high-performance web applications with strong emphasis on user experience, reliability, and conversion optimization. Proven expertise in end-to-end feature development, cloud migration support, analytics instrumentation, deep linking, and payment gateway integrations. Adept at debugging production issues, optimizing frontend architecture, and delivering measurable business impact in fast-paced product environments.
           </p>
 
           <div style={styles.actions}>
