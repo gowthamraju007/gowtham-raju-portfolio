@@ -1,14 +1,24 @@
 const Projects = () => {
     const projects = [
       {
-        title: "Personal Portfolio",
-        desc: "Responsive portfolio website with sections for summary, experience, skills, contact, and resume download.",
-        tech: "React, Vite, CSS"
-      }
-    ];
+      title: "Task Dashboard",
+      desc: "A comprehensive task management dashboard for organizing and tracking tasks efficiently. Features include task creation, editing, deletion, and status tracking. Live demo: https://task-dashboard-ten-iota.vercel.app/ | GitHub: https://github.com/gowthamraju007/Task-dashboard",
+      tech: "React, JavaScript, CSS"
+    },
+    {
+      title: "E-Commerce Rating App",
+      desc: "An e-commerce application with product rating and review functionality. Allows users to browse products, leave ratings, and read reviews. Live demo: https://e-commerce-rating-app.vercel.app/ | GitHub: https://github.com/gowthamraju007/E-Commerce-rating-app",
+      tech: "React, JavaScript, CSS"
+    },
+    {
+      title: "Personal Portfolio",
+      desc: "Responsive portfolio website with sections for summary, experience, skills, contact, and resume download.",
+      tech: "React, Vite, CSS"
+    }
+  ];
   
-    return (
-      <section id="projects" style={styles.section}>
+  return (
+    <section id="projects" style={styles.section}>
         <h2 style={styles.heading}>Projects</h2>
   
         <div style={styles.grid}>
