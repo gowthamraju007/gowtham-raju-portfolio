@@ -20,7 +20,10 @@ const Skills = () => {
     "AWS",
     "KCS (Krutrim Cloud Service)",
     "Jenkins",
-    "Material UI"
+   "Gen AI Tools (ChatGPT, Gemini, etc.)",
+   "Next.js",
+   "TypeScript",
+   "Vite"
   ];
   
     return (
